@@ -6,9 +6,9 @@ namespace Agenda
     {
         private string cadena =
 
-"User Id=system;" +
-"Password=Oracle123;" +
-"Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=XEPDB1)));";
+  "User Id=YOUR_USERNAME;" +
+  "Password=YOUR_PASSWORD;" +
+  "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=YOUR_SERVICE_NAME)));";
 
         public OracleConnection ObtenerConexion()
         {
