@@ -1,4 +1,4 @@
-# AgendaElectronica
+# Agenda Electrónica
 
 Aplicación de escritorio desarrollada en C# con Windows Forms y Oracle para la gestión de contactos mediante operaciones CRUD.
 
